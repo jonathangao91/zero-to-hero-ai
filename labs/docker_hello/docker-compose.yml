@@ -1,0 +1,15 @@
+services:
+  hello-app:
+    build: .
+    ports:
+      - "9000:8080"
+    volumes:
+      - .:/app
+    command: python -u app.py
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
