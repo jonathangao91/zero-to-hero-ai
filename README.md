@@ -15,4 +15,4 @@ The work here is hands-on reimplementation: I followed each lecture by typing ou
 
 ## Status
 
-Active. This repo represents the first phase of an ongoing pivot — see also [cuda-kernels](https://github.com/jonathangao91/cuda-kernels) for current GPU programming work.
+Complete. Foundational learning phase (Jan-Feb 2026). See [cuda-kernels](https://github.com/jonathangao91/cuda-kernels) for current work.
