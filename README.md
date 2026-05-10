@@ -16,3 +16,5 @@ The work here is hands-on reimplementation: I followed each lecture by typing ou
 ## Status
 
 Complete. Foundational learning phase (Jan-Feb 2026). See [cuda-kernels](https://github.com/jonathangao91/cuda-kernels) for current work.
+
+Companion blog: jonathangao.bearblog.dev
